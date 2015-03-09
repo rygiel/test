@@ -12,3 +12,16 @@ function test1(){
 
 
 }
+
+
+function test3(){
+
+  console.log('TEST3');
+
+  if ( true ){
+
+    console.log('TEST3');
+
+  }
+
+}
