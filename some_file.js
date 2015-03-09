@@ -25,3 +25,16 @@ function test3(){
   }
 
 }
+
+
+function test2(){
+
+  console.log('TEST2');
+
+  if ( true ){
+
+    console.log('TEST2`');
+
+  }
+
+}
