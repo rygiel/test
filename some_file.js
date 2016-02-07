@@ -1,4 +1,8 @@
 
+function xxyyzz(){
+  console.log('JJJJJJ');
+}
+
 function test4(){
   console.log('test5');
 }
@@ -39,6 +43,9 @@ function test2(){
 
   }
 
+}
+function nextShot(){
+  console.log('sssss');
 }
 
 function test5(){
