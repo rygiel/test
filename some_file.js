@@ -1,5 +1,7 @@
 
-
+function test4(){
+  console.log('test5');
+}
 function test1(){
 
   console.log('TEST1');
