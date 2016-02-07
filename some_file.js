@@ -38,3 +38,7 @@ function test2(){
   }
 
 }
+
+function test5(){
+  console.log('test5');
+}
