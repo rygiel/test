@@ -1,19 +1,14 @@
-function xxyyzz(){
-  console.log('JJJJJJ');
-}
 function test4(){
-  var obj = {
-    test: function(){
-    },
-    test2: 123,
-    thing: 1234,
-    doing: function(){
-      return {};
-    }
-  };
+  var obj = {};
+  obj.value=1234;
+  obj.foo = function(callBack){};
+
   console.log('test5');
-  obj.test();
-  obj.doing()
+
+  obj.foo(function(){
+    console.log('dupa');
+  });
+
 }
 function testNext(){}
 function test1(){
@@ -37,9 +32,6 @@ function test3(){
   if ( true ){
     console.log('TEST3');
   }
-}
-function nextShot(){
-  console.log('sssss');
 }
 
 function test5(){
