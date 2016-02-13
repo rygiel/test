@@ -1,20 +1,19 @@
 function xxyyzz(){
   console.log('JJJJJJ');
 }
-
 function test4(){
   var obj = {
     test: function(){
     },
+    test2: 123,
     thing: 1234,
     doing: function(){
       return {};
     }
   };
   console.log('test5');
-
   obj.test();
-  obj.doing();
+  obj.doing()
 }
 function testNext(){}
 function test1(){
