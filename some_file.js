@@ -1,8 +1,12 @@
-
 function test4(){
-
+  function xyz(){
+    console.log('dupa');
+  }
+  xyz();
   console.log('test5');
-
+(function(){
+  xyz();
+})();
 }
 function testNext(){}
 function test1(){
