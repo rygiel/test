@@ -1,8 +1,11 @@
-
 function test4(){
-
+  var x =1 , z=2;
   console.log('test5');
+  struct = {
 
+
+
+  };
 }
 function testNext(){}
 function test1(){
